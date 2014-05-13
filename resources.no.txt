@@ -1,0 +1,5 @@
+#RosettaVersion=635355799074435839
+e=e
+Q=q
+R=r
+W=w
